@@ -9,7 +9,7 @@ Tidy up the taxon listing in the product admin.
 Add spree_tidy_taxons to your Gemfile:
 
 ```ruby
-gem 'spree_tidy_taxons'
+gem 'spree_tidy_taxons', :github => "Hates/spree_tidy_taxons"
 ```
 
 Bundle your dependencies and run the installation generator:
