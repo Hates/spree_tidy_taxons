@@ -1,0 +1,10 @@
+/*
+ *= require admin/spree_backend
+*/
+.select2-container-multi .select2-choices .select2-search-choice {
+  display: block;
+  float: none;
+}
+.select2-container-multi .select2-choices .select2-search-choice [class^="icon-"] {
+  display: inline;
+}
