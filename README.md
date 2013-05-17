@@ -1,8 +1,8 @@
 # SpreeTidyTaxons
 
-![](http://dl.dropbox.com/u/582291/Screenshots/tpya.png)
+![](http://dl.dropbox.com/u/582291/Screenshots/mfrq.png)
 
-Tidy up the taxon listing in the product admin.
+Tidy up the taxon listing in the product admin. Removes floating and re-introduces arrow icons.
 
 ## Installation
 
