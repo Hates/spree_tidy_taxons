@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_tidy_taxons'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.summary     = 'Tidy taxon list'
   s.description = 'Tidy taxon list'
   s.required_ruby_version = '>= 1.9.3'
